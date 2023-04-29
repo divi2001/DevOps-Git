@@ -1,2 +1,2 @@
-print("Hello World")
-print(2+4)
+for i in range(10):
+	print("Hello World")
